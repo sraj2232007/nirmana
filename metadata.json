@@ -1,0 +1,6 @@
+{
+  "name": "AcademiaDesk Collegiate Ledger",
+  "description": "Oxford Collegiate Course Registration, Academic Syllabus Repository, and Student Ledger Portal in a refined dark mode theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
